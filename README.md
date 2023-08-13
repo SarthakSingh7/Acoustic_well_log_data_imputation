@@ -45,4 +45,4 @@ Interpret and visualize the results using the provided visualization scripts.
 Contribute to the repository by implementing improvements or extensions.
 
 ## Contact Information
-For inquiries, questions, or collaborations, please contact Sarthak Singh at sarthaks66@gmail.com
+For inquiries, questions, or collaborations, please contact ***Sarthak Singh*** at sarthaks66@gmail.com
