@@ -1,4 +1,7 @@
-# Acoustic_well_log_data_imputation
+# Acoustic well log data imputation
+
+![image](https://github.com/SarthakSingh7/Acoustic_well_log_data_imputation/assets/75946168/70f3c231-fe33-4e01-a410-cfc87a2d2396)
+
 
 ## Imputing Petrophysical Well Log Data with Supervised Machine Learning Techniques
 This repository contains the code and resources related to the study titled "Imputing Petrophysical Well Log Data with Supervised Machine Learning Techniques: A Comparative Analysis of Acoustic Logs." This study focuses on forecasting missing acoustic well log values using two machine learning algorithms, namely Random Forest and XGBoost. The comparison between these algorithms aims to provide decision-makers with insights for informed decision-making and enhancing the reliability of log data.
