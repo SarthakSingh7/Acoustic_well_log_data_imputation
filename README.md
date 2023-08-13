@@ -46,3 +46,5 @@ Contribute to the repository by implementing improvements or extensions.
 
 ## Contact Information
 For inquiries, questions, or collaborations, please contact ***Sarthak Singh*** at sarthaks66@gmail.com
+![qr-code](https://github.com/SarthakSingh7/Acoustic_well_log_data_imputation/assets/75946168/a6ac2d2f-d88e-43dc-ac24-8d65f177e02d)
+
