@@ -1,22 +1,26 @@
-# Acoustic well log data imputation
+# Imputing petrophysical well log data using machine learning: A comparative analysis on acoustic log
 
-![image](https://github.com/SarthakSingh7/Acoustic_well_log_data_imputation/assets/75946168/70f3c231-fe33-4e01-a410-cfc87a2d2396)
+![image](https://github.com/SarthakSingh7/Acoustic_well_log_data_imputation/assets/75946168/f711d651-3bca-4431-9b61-9e24b2c34b50)
 
 
-## Imputing Petrophysical Well Log Data with Supervised Machine Learning Techniques
-This repository contains the code and resources related to the study titled "Imputing Petrophysical Well Log Data with Supervised Machine Learning Techniques: A Comparative Analysis of Acoustic Logs." This study focuses on forecasting missing acoustic well log values using two machine learning algorithms, namely Random Forest and XGBoost. The comparison between these algorithms aims to provide decision-makers with insights for informed decision-making and enhancing the reliability of log data.
+![image](https://github.com/SarthakSingh7/Acoustic_well_log_data_imputation/assets/75946168/f55919c4-87c2-4f4c-a393-b6d3bad1b580)
+
+
+
+## Imputing petrophysical well log data using machine learning: A comparative analysis on acoustic log
+This repository contains the code and resources related to the study titled "Imputing petrophysical well log data using machine learning: A comparative analysis on acoustic log" This study focuses on forecasting missing acoustic well log values using four machine learning algorithms including Random Forest and XGBoost. The comparison between these algorithms aims to provide decision-makers with insights for informed decision-making and enhancing the reliability of log data.
 
 ## Study Approach
 Dataset Description (Taranaki Basin, New Zealand)
 Data Cleaning and Preprocessing
 Feature Selection and Correlation Analysis
-Model Training (Random Forest and XGBoost)
-Performance Evaluation Metrics (R2 Score)
+Model Training (Multiple linear regression, SGD regressor, Random Forest and XGBoost)
+Performance Evaluation Metrics (MAE, RMSE, and R2 Score)
 Results and Discussion
 
-Comparative Analysis of Random Forest and XGBoost
+Comparative Analysis of Multiple linear Regression, SGD regressor, Random Forest and XGBoost
 Correlation Plots and Feature Importance Analysis
-Scatter Plots and KDE plots
+Scatter Plots
 Residual Analysis
 Conclusion
 
@@ -46,6 +50,9 @@ Contribute to the repository by implementing improvements or extensions.
 
 ## Contact Information
 For inquiries, questions, or collaborations, please contact ***Sarthak Singh*** at sarthaks66@gmail.com
+
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/sarthaksingh7/).
+
 
 
 ![qr-code](https://github.com/SarthakSingh7/Acoustic_well_log_data_imputation/assets/75946168/c7e3da24-e985-43cb-a2fd-5715463c2099)
