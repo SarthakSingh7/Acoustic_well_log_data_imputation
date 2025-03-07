@@ -1,5 +1,4 @@
-# Imputing petrophysical well log data using machine learning: A comparative analysis on acoustic log
-
+# Comparative analysis of machine learning techniques for neutron log prediction: An application for hydrocarbon exploration
 ![image](https://github.com/SarthakSingh7/Acoustic_well_log_data_imputation/assets/75946168/f711d651-3bca-4431-9b61-9e24b2c34b50)
 
 
