@@ -6,8 +6,8 @@
 
 
 
-## Imputing petrophysical well log data using machine learning: A comparative analysis on acoustic log
-This repository contains the code and resources related to the study titled "Imputing petrophysical well log data using machine learning: A comparative analysis on acoustic log" This study focuses on forecasting missing acoustic well log values using four machine learning algorithms including Random Forest and XGBoost. The comparison between these algorithms aims to provide decision-makers with insights for informed decision-making and enhancing the reliability of log data.
+## Comparative analysis of machine learning techniques for neutron log prediction: An application for hydrocarbon exploration
+This repository contains the code and resources related to the study titled "Comparative analysis of machine learning techniques for neutron log prediction: An application for hydrocarbon exploration" This study focuses on forecasting missing acoustic well log values using four machine learning algorithms including Random Forest and XGBoost. The comparison between these algorithms aims to provide decision-makers with insights for informed decision-making and enhancing the reliability of log data.
 
 ## Study Approach
 Dataset Description (Taranaki Basin, New Zealand)
